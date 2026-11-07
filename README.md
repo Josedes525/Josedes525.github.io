@@ -1,8 +1,3 @@
-# P-gina.io
-Una página ahi
-
-
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
